@@ -1,0 +1,12 @@
+{
+    "name": "hidayah/backend",
+    "description": "Hidayah App Backend API - PHP + MySQL",
+    "require": {
+        "firebase/php-jwt": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hidayah\\": "src/"
+        }
+    }
+}

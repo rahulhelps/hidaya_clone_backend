@@ -1,0 +1,5 @@
+/vendor/
+/logs/*.txt
+/logs/*.log
+config.php
+.env
